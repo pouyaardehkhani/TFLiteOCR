@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TFLiteOCR</string>
+    <string name="gpu">GPU</string>
+    <string name="detect">Detect</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="chooseaction">Choose an image</string>
+</resources>
